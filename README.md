@@ -1,2 +1,2 @@
-# ytads
-Show ads in your website based on YouTube!!! See readme for info and documentation.
+# YouTube Adverts
+## This script allows your website to show advertisements as YouTube videos. You may set view lengths, enable / disable muting, show time remaining, and more.
