@@ -4,3 +4,4 @@
 ### [Click Here!](https://darkheart527.github.io/ytads/example)
 
 # Documentation
+[Back To Top](#youtube-adverts)
