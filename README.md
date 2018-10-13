@@ -1,7 +1,7 @@
 # YouTube Adverts
 ## This script allows your website to show advertisements as YouTube videos. You may set view lengths, enable / disable muting, show time remaining, and more.
 ## Links
-[Documentation](#documentation)
+[Documentation](#documentation)\n
 [Setting Videos](#setting-videos) [Muting - Enable / Disable](#muting)
 ## Need an example?
 ### [Click Here!](https://darkheart527.github.io/ytads/example)
