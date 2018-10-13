@@ -24,5 +24,13 @@ ytads.settings.canMute = true;
 ytads.settings.canMute = false;
 ```
 ## Controlling User Interaction
-### When showing a YouTube ad, we may not want to allow them to change the current time, or even pause it. 
+### When showing a YouTube ad, we may not want to allow them to change the current time, or even pause it.
+### To disable YouTube controls
+```
+ytads.settings.cover = true;
+```
+### Otherwise use
+```
+ytads.settings.cover = false;
+```
 [Back To Top](#youtube-adverts)
