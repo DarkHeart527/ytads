@@ -8,5 +8,9 @@
 ### [Click Here!](https://darkheart527.github.io/ytads/example)
 
 # Documentation
-
+## Settings Videos
+### Settings videos is actually quite simple! When settings videos, the player only uses id's at this time. You may set a start time just by stating ',(amountOfSeconds)'. Ex: hfa8U93,30 to start it at 30 seconds
+```
+ytads.videos = ['myarray']
+```
 [Back To Top](#youtube-adverts)
