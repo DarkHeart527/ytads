@@ -1,5 +1,18 @@
 <html>
   <head>
   </head>
-  <script src="YouTube Advert.js"></script>
+  <body>
+    <div id="ytcontainer"></div>
+    <input value="" placeholder="Put a YouTube ID here and press Submit" id="ytid">
+    <div id="submit">Submit</div>
+  </body>
+  <script src="https://darkheart527.github.io/darkheartprod/YouTube Advert.js"></script>
+  <script>
+    ytads.init('ytcontainer');
+    document.getElementById('submit').onclick = function() {
+      let id = document.getElementById('ytid').value;
+      ytads.newVideo(id);
+    }
+    ytads.newVideo();
+  </script>
 </html>
