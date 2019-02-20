@@ -8,8 +8,8 @@
   </body>
   <script src="https://darkheart527.github.io/darkheartprod/YouTube Advert.js"></script>
   <script>
-    setTimeout(function() {
     ytads.init('ytcontainer');
+    setTimeout(function() {
     document.getElementById('submit').onclick = function() {
       let id = document.getElementById('ytid').value;
       ytads.newVideo(id);
